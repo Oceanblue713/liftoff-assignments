@@ -15,5 +15,6 @@ If you can't read English? Don't worry! This app has a Spanish version and a Jap
 * Ruby
 * RubyonRails
 * Postgresql
+* Heroku
 ### What I'll Have to Learn
 I should learn software design first, and how to use databases efficiently and how to use MVC more efficiently. 
