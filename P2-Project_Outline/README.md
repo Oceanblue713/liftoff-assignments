@@ -7,11 +7,11 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+
 ### Features
 Include Features here
 ### Technologies
-Include Technologies here
-
+* Ruby
+* RubyonRails
 ### What I'll Have to Learn
 Include what you will need to learn here
