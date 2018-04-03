@@ -23,4 +23,4 @@ If you can't read English? Don't worry! This app has a Spanish version and a Jap
 
 ### What I'll Have to Learn
 I should learn software design first, and how to use databases efficiently and how to use MVC more efficiently. 
-I will prepare two versions, first one won't have a database, I will use only controller and view to study how to use controller. The second version will have a database(I will use postgresql). I will add a sign up page and send a sign up email to the user. I can learn version controll and how to make sending functions from this project.
+I will prepare two versions, the first one won't have a database, I will use only controller and view to study how to use controller. The second version will have a database(I will use postgresql). I will add a sign up page and send a sign up email to the user. I can learn version controll and how to make sending functions from this project. The question pages need new and create functions on the same page, and I won't implement update and destroy functions at this time. Because this application is easy, simple, and light.  
