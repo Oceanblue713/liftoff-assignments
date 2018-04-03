@@ -12,4 +12,3 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Project Tracker
 [This is link to my wireframe](https://cacoo.com/diagrams/n1bvZqYWHYfgXeRc)
-(Include a link to your public Pivotal Tracker project. Be sure you have user stories added for at least your first 2-week sprint.)
