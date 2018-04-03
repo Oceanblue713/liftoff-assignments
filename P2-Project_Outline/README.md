@@ -7,7 +7,7 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-This application targets every beer lover around the world. This app can check what is the best beer for you. 
+This application targets every beer lover around the world that loves beer but wants to try a new beer style. This app can check what is the best beer for you based on your taste preferences. 
 ### Features
 This app will ask you 5 questions, and after you answer these questions, this app will tell you what beer is good for you.
 If you can't read English? Don't worry! This app has a Spanish version and a Japanese version.
@@ -16,5 +16,6 @@ If you can't read English? Don't worry! This app has a Spanish version and a Jap
 * RubyonRails
 * Postgresql
 * Heroku
+* Bootstrap3
 ### What I'll Have to Learn
 I should learn software design first, and how to use databases efficiently and how to use MVC more efficiently. 
